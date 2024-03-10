@@ -45,7 +45,7 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('....', 'ultimate')},
+    window.open('Đang Update', 'ultimate')},
   100);
 }
 function Facebook() {
